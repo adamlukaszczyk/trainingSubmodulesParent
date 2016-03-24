@@ -1,9 +1,9 @@
 [submodule "submoduleA"]
 	path = submoduleA
-	url = https://github.com/adamlukaszczyk/trainingSubmoduleChild
+	url = git@github.com:adamlukaszczyk/trainingSubmoduleChild.git
 [submodule "submoduleB"]
 	path = submoduleB
-	url = https://github.com/adamlukaszczyk/trainingSubmoduleChild
+	url = git@github.com:adamlukaszczyk/trainingSubmoduleChild.git
 [submodule "submoduleC"]
 	path = submoduleC
-	url = https://github.com/adamlukaszczyk/trainingSubmoduleChild
+	url = git@github.com:adamlukaszczyk/trainingSubmoduleChild.git
