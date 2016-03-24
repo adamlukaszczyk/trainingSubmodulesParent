@@ -7,3 +7,6 @@
 [submodule "submoduleC"]
 	path = submoduleC
 	url = git@github.com:adamlukaszczyk/trainingSubmoduleChild.git
+[submodule "submoduleD"]
+	path = submoduleD
+	url = git@github.com:adamlukaszczyk/trainingSubmoduleChild.git
