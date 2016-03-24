@@ -1,0 +1,2 @@
+# trainingSubmodulesParent
+For training purpose
