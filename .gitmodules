@@ -4,3 +4,6 @@
 [submodule "submoduleB"]
 	path = submoduleB
 	url = https://github.com/adamlukaszczyk/trainingSubmoduleChild
+[submodule "submoduleC"]
+	path = submoduleC
+	url = https://github.com/adamlukaszczyk/trainingSubmoduleChild
